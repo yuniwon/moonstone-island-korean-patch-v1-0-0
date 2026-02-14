@@ -1,53 +1,55 @@
-# Moonstone Island Korean Patch (Unofficial)
+# Moonstone Island 비공식 한글 패치
 
-Unofficial Korean translation patch for **Moonstone Island**.
+Moonstone Island용 비공식 한글 번역 패치입니다.
 
-This repository mirrors the distribution package for patch version `v1.0.0`.
+이 저장소는 패치 배포본 `v1.0.0`을 그대로 담고 있습니다.
 
-## Compatibility
+## 호환 정보
 
-- Target game version: `1.7.2365` (Steam)
-- Platform: Windows
+- 대상 게임 버전: `1.7.2365` (Steam)
+- 지원 플랫폼: Windows
 
-## What's Included
+## 포함 내용
 
-- UI and system strings
-- Main dialogue (`stringsDialogue`)
-- NPC social dialogue (`strings_social_*`)
-- Quests, mail, cards, hints, item descriptions
-- Patch installer executable (`한글패치.exe`)
+- 시스템/UI 문자열
+- 메인 대화 (`stringsDialogue`)
+- NPC social 대화 (`strings_social_*`)
+- 퀘스트/우편/카드/힌트/아이템 설명
+- 패처 실행 파일 (`한글패치.exe`)
 
-See `CHANGELOG.txt` for detailed updates.
+자세한 변경 사항은 `CHANGELOG.txt`를 참고해 주세요.
 
-## Install
+## 설치 방법
 
-1. Download the latest release asset.
-2. Extract the archive.
-3. Run `한글패치.exe`.
-4. Select install from the menu.
-5. Start the game and set language to **Russian** (required).
+1. 최신 릴리즈의 압축 파일을 다운로드합니다.
+2. 압축을 해제합니다.
+3. `한글패치.exe`를 실행합니다.
+4. 메뉴에서 설치를 선택합니다.
+5. 게임 실행 후 언어를 **한국어**로 선택합니다.
 
-## Important Language Setting
+## 중요: 언어 선택
 
-This patch replaces the **Russian** language slot.
+이 패치는 내부적으로 러시아어 슬롯을 사용하지만,
+게임 옵션에서는 **한국어**로 표시되도록 처리되어 있습니다.
 
-After installation, in game settings select:
+설치 후 게임 설정에서 아래 항목을 선택해 주세요.
 
-- `Options -> Language -> Russian`
+- `Options -> Language -> 한국어`
 
-If Russian is not selected, Korean text will not appear.
+한국어를 선택하지 않으면 한글 텍스트가 보이지 않을 수 있습니다.
 
-## Uninstall
+## 제거 방법
 
-Run `한글패치.exe` and choose uninstall to restore backup.
+`한글패치.exe`를 실행한 뒤 제거 메뉴를 선택하면
+백업된 원본으로 복구할 수 있습니다.
 
-## Playtest
+## 플레이테스트
 
-Use `PLAYTEST_CHECKLIST.txt` for a quick QA pass after installation.
+설치 후 빠른 점검은 `PLAYTEST_CHECKLIST.txt`를 참고해 주세요.
 
-## Legal / Disclaimer
+## 안내 / 면책
 
-- This is an unofficial fan translation patch.
-- Not affiliated with Studio Supersoft / Raw Fury.
-- All game rights belong to the original copyright owners.
-- Distribution may be changed or stopped on rights holder request.
+- 본 패치는 비공식 팬 번역입니다.
+- Studio Supersoft / Raw Fury와 무관합니다.
+- 게임 원본의 모든 권리는 원저작권자에게 있습니다.
+- 권리자 요청 시 배포가 변경 또는 중단될 수 있습니다.
