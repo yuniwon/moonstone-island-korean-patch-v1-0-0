@@ -2,7 +2,7 @@
 
 Moonstone Island용 비공식 한글 번역 패치입니다.
 
-이 저장소는 패치 배포본 `v1.0.0`을 그대로 담고 있습니다.
+This repository contains Korean patch distribution artifacts. See Releases for the latest version.
 
 ## 호환 정보
 
