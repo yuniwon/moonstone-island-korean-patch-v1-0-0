@@ -56,6 +56,7 @@ Moonstone Island용 비공식 한글 번역 패치입니다.
 - 카드 번역 매핑 오류 수정 (`patch_data/Data/cards.json`)
 - 튜토리얼 관련 카드명/효과 오표기 보정 (`Bash`, `Shock_tutorial`, `Curse`)
 - 카드군 일부 설명 텍스트 정합성 복구 (`Booster Pack`, `Loose Change` 계열)
+- 카드 전술 계열 중간 구간 매핑 재정렬 및 주석 행 정합 복구 (행 `9~49`)
 
 ## 후원 안내 (선택)
 
