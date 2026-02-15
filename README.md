@@ -2,7 +2,7 @@
 
 Moonstone Island용 비공식 한글 번역 패치입니다.
 
-This repository contains Korean patch distribution artifacts. See Releases for the latest version.
+이 저장소는 한글 패치 배포 아티팩트를 관리합니다. 최신 버전은 Releases를 확인해 주세요.
 
 ## 호환 정보
 
@@ -50,6 +50,12 @@ This repository contains Korean patch distribution artifacts. See Releases for t
 배포 전 텍스트 자동 점검은 아래 명령으로 실행할 수 있습니다.
 
 `python check_kr_quality.py`
+
+## 최근 핫픽스 (v1.0.1)
+
+- 카드 번역 매핑 오류 수정 (`patch_data/Data/cards.json`)
+- 튜토리얼 관련 카드명/효과 오표기 보정 (`Bash`, `Shock_tutorial`, `Curse`)
+- 카드군 일부 설명 텍스트 정합성 복구 (`Booster Pack`, `Loose Change` 계열)
 
 ## 후원 안내 (선택)
 
